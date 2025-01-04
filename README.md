@@ -24,7 +24,7 @@ git clone https://github.com/swiftdeskk/invite-checker.git
 Instala las dependencias necesarias para que el programa funcione correctamente. Asegúrate de tener **pip** instalado.
 
 ```bash
-cd discord-invite-checker
+cd invite-checker
 pip install -r requirements.txt
 ```
 
