@@ -16,7 +16,7 @@ Este programa permite verificar el estado de las invitaciones de un servidor de 
 Primero, clona este repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/discord-invite-checker.git
+git clone https://github.com/swiftdeskk/invite-checker.git
 ```
 
 ### 2. Instala las dependencias
