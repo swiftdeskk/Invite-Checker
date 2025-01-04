@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Discord Invite Checker 📋
 
 Este programa permite verificar el estado de las invitaciones de un servidor de Discord utilizando proxies (si se habilitan) y mostrar el estado de cada invitación.
