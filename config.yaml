@@ -1,0 +1,6 @@
+invite_checker:
+  min_members: 100  # Minimum number of members for a valid invitation
+  invites_file: "Data/Invites.txt"  # Path to file with invitations
+  proxies_file: "Data/Proxies.txt"  # Path to file with proxies
+  output_directory: "Output"  # Folder where the results will be saved
+  use_proxies: false  # Enable use of proxies [True/False]
