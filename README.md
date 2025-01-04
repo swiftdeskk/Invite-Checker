@@ -1,7 +1,3 @@
-¡Entiendo! Vamos a enfocarnos en crear un archivo `README.md` claro y directo que explique cómo usar tu programa, con instrucciones detalladas y emojis para hacerlo más visual. Aquí tienes una versión más clara y estructurada para tu proyecto:
-
-### `README.md`
-
 ```markdown
 # 🚀 Discord Invite Checker 📋
 
@@ -119,20 +115,3 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 5. Crea un pull request. 🤲
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT** - consulta el archivo [LICENSE](LICENSE) para más detalles. 📑
-```
-
-### Explicación de la estructura del archivo `README.md`:
-
-- **Introducción clara**: Se explica brevemente qué hace el programa con emojis para hacerlo más visual.
-- **Instrucciones de instalación**: Se detallan los pasos para clonar el repositorio y configurar el entorno.
-- **Archivo de configuración (`config.yaml`)**: Se explica cómo configurar el archivo para ajustar parámetros clave como `min_members` y `proxies_enabled`.
-- **Uso básico y opciones**: Se dan ejemplos sobre cómo ejecutar el programa, cómo usar las opciones de línea de comandos y qué tipo de salida esperar.
-- **Ejemplo de salida**: Se muestra un ejemplo real de la salida del programa con emojis para que el usuario sepa qué esperar.
-- **Contribuciones**: Instrucciones para aquellos que quieran contribuir al proyecto.
-- **Licencia**: Información sobre la licencia MIT para que los usuarios sepan cómo pueden usar o modificar el código.
-
-Con esta estructura, tu `README.md` será claro y fácil de seguir, y ayudará a que otros usuarios o desarrolladores puedan usar tu programa sin problemas.
